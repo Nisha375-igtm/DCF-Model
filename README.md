@@ -4,10 +4,15 @@ A fully functional DCF model built from scratch in Microsoft Excel to estimate t
 
 ## What the Model Covers
 -Revenue growth and EBITDA margin assumptions
+
 -Free Cash Flow (FCF) projections over a 5-year forecast period
+
 -Weighted Average Cost of Capital (WACC) calculation
+
 -Terminal Value estimation using the Gordon Growth Method
+
 -Enterprise Value and Equity Value bridge
+
 -Sensitivity analysis on WACC and terminal growth rate
 
 ## Tools Used
