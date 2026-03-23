@@ -3,7 +3,6 @@
 A fully functional DCF model built from scratch in Microsoft Excel to estimate the intrinsic value of a company based on projected future cash flows.
 
 ## What the Model Covers
-
 -Revenue growth and EBITDA margin assumptions
 -Free Cash Flow (FCF) projections over a 5-year forecast period
 -Weighted Average Cost of Capital (WACC) calculation
